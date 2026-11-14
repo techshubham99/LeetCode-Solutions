@@ -27,6 +27,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0065-valid-number) |
 ## Bracket Sequences
 |  |
 | ------- |
