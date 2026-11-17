@@ -10,6 +10,7 @@ leetcode solutions
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0941-valid-mountain-array](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
