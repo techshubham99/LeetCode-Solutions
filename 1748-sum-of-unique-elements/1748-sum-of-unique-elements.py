@@ -1,17 +1,15 @@
 class Solution:
     def sumOfUnique(self, nums: list[int]) -> int:
-        seen = set()
-        unique = set()
+        freq = {}
 
-        for num  in nums:
+        # Count frequency
+        for num in nums:
+            freq[num] = freq.get(num, 0) + 1
 
-            if num in seen:
-                unique.discard(num)
+        # Calculate unique sum
+        ans = 0
 
-            else:
-                seen.add(num)
-                unique.add(num)
-
-        return sum(unique)
-
-
+        for num, count in freq.items():
+            if count == 1:
+                ans += num
+        return ans
