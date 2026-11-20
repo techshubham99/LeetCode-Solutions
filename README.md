@@ -12,10 +12,12 @@ leetcode solutions
 | [0739-daily-temperatures](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +49,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
