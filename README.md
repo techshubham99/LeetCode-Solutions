@@ -11,6 +11,7 @@ leetcode solutions
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [1089-duplicate-zeros](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
