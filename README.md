@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0485-max-consecutive-ones](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
