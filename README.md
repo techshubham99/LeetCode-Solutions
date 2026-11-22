@@ -23,6 +23,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1089-duplicate-zeros](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
@@ -54,4 +56,12 @@ leetcode solutions
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
