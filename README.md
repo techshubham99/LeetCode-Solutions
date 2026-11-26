@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -17,6 +18,7 @@ leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Stack
