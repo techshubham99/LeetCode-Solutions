@@ -19,6 +19,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Stack
@@ -48,6 +49,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1089-duplicate-zeros](https://github.com/techshubham99/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Greedy
@@ -61,9 +63,14 @@ leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
