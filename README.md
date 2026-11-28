@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0414-third-maximum-number](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -73,4 +74,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/techshubham99/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
